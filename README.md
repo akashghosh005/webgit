@@ -10,6 +10,7 @@ This is my first edited line on github.
 next edited line on local repo.
 Line edited by Indranil Das.
 Line added by akki.
-
-
-Line 2 edited by Indra
+line added in new branch branch1
+Line 2 in branch 1(indra)
+line 2 added by akki
+Line 3 by Indra in branch1
